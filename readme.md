@@ -28,7 +28,7 @@ Next, you need to give the some permissions for some folders:
 
 ```sh
 $ cd arca-challenge
-$ cp chmod 755 -R bootstrap/cache storage
+$ chmod 755 -R bootstrap/cache storage
 ```
 
 That's it, be shure of have composer and npm installed and just:
