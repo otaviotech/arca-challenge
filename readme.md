@@ -5,11 +5,11 @@ This is a simple CRUD made with:
 |-----------	|
 | PHP       	|
 | Laravel   	|
-| Javascript    |
+| Javascript  |
 | AngularJS 	|
 | jQuery    	|
 | VanillaJS 	|
-| MariaDB       |
+| MariaDB     |
 
 It creates a mix of this technologies.
 **Remember**: they are not made to be used this way! It goes this way here just to show and give examples of what technologies I can use.
