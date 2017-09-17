@@ -58,7 +58,9 @@ The admin routes have restrict access.
 | /admin/business/destroy/{id} 	| DELETE 	| YES        	|
 
 You can use the following credentials to access the restrict area:
+
     **Username**: admin@businessfinder.com
+
     **Password**: admin!2345
 
 The routes for registering were disabled.
@@ -66,5 +68,7 @@ The routes for registering were disabled.
 The data in database were generated with a php library called [Faker](https://github.com/fzaninotto/Faker) and seeded using Laravel's factory tool.
 
 # TODO
-[x] Create the application (Up and Running)
-[ ] Dockerize this application
+
+- [x] Create the application (Up and Running)
+
+- [ ] Dockerize this application
