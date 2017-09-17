@@ -1,0 +1,33 @@
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "~bootstrap-sass/assets/stylesheets/bootstrap";
+
+h2 a { color: rgb(99, 107, 111) }
+h2 > a:hover { color: #000; transition: 0.3s;}
+h1, h2, h3, h4, h5, h6 { font-family: Raleway !important;}
+.business-category-link:hover { color: #000 !important; transition: 0.3s }
+.app-header { font-family: Raleway; font-weight: 100; font-size: 84px; margin-top: 50px;}
+.app-header-2 { font-family: Raleway; font-weight: 100; font-size: 34px; margin-top: 20px;}
+
+[class^='select2'] {
+  border-radius: 1px !important;
+}
+
+span.select2-selection--multiple[aria-expanded=false] {
+    border-color: #d2d6de !important;
+}
+
+span.select2-selection--multiple[aria-expanded=true] {
+    border-color: #3c8dbc !important;
+}
+
+[class^='select2-selection__choice'] {
+  background-color: #F4F8FA !important;
+  color: rgb(99, 107, 111) !important;
+}
