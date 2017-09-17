@@ -59,9 +59,9 @@ The admin routes have restrict access.
 
 You can use the following credentials to access the restrict area:
 
-    **Username**: admin@businessfinder.com
+    Username: admin@businessfinder.com
 
-    **Password**: admin!2345
+    Password: admin!2345
 
 The routes for registering were disabled.
 
